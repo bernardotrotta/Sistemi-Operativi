@@ -22,7 +22,11 @@
 
 - [Pagina Elly](https://elly2023.dia.unipr.it/course/view.php?id=313)
 
+### Bibliografia
+
 
 ## Introduzione
 Perché studiare sistemi operativi? Perché nella scrittura di un software, questo inevitabilmente accederà ad un livello più profondo nel sistema ooperativo, è buona pratica conoscerne i meccanismi.
+
+
 
