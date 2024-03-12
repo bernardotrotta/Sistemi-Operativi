@@ -27,34 +27,11 @@
 
 ## Cos'è un Sistema Operativo? 
 
-## Aspetti fondamentali dei SO
-Un sisema di elaborazione può essere visto come un insieme di:
-- Hardware
-- Sistema Operativo
-- Programmi applicativi
-- Utenti
 
-Le applicazioni finali non possono gestire l'hardware del calcolatore, compito che spetta al sistema operatvio
-
-I programmi per essere eseguiti hanno bisogno di risorse, queste ultime vengono gestite dal sistema operativo
-
-- **Driver:** software che gestisce la comunicazione macchina-periferiche
-- **Interfaccia:** costuituite dalle system call, denominate anche API, lo scopo essenziale è di fornire le giuste risorse agli applicativi degli utenti
-
-### Cosa fanno i sistemi operativi?
-La risposta sta nell'esigenza dell'utilizzatore finale e dalla macchina su cui questo viene seguito
-- I sistemi embedded non hanno una interfaccia utente di sistema ma sono applicatica
 
 ## Definizione 1
 Un sistema operativo è un intermediario tra utente e computer
-- **Esecuzione di programmi:** Assicura l'esecuzione di programmi
-- **Facilitù d'uso:** Rende il sistema informatico comodo da utilizzare
-- **Efficienza:** Assicura un uso efficiente dell'hardware
-- Le risorse devono essere eseguite in un determinato ordine
-- Le risorse possono essere utilizzate da più utenti
-- **Sicurezza:** controllo d'accesso con autenticazione degli utenti
-- **Disaster Recovery:** Recupero dell informazioni in caso di disastro
-- **Gestione semplice:** Delle risorse
+
 
 Il sistema poperativo è un allocatore di risorse
 - L'allocazione deve essere efficiente e eque
