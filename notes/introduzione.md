@@ -23,8 +23,3 @@ Un sistema operativo controlla l'hardware di un sistema di elaborazione e ne coo
 - I sistemi embedded non hanno una interfaccia utente di sistema ma sono applicatica
 - **Programma di controllo:** gestisce l'esecuzione dei programmi utenti in modo da impedire che si verifichino errori o che il calcolatore sia usato in modo scorretto.
 
-## Generalità sui calcolatori
-Un calcolatore è composto da
-- Una o più CPU
-- Una serie di controllori di dispositivi connessi attraverso un canale di comunicazione condiiso (bus) che garantisce l'accesso alla memoria condivisa del sistema.
-  - Ogni controllore si occupa di un determinato dispositivo
